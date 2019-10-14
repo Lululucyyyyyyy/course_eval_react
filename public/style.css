@@ -1,0 +1,36 @@
+.photo-container img {
+  width: 500px;
+}
+
+.photo-container {
+  box-sizing: content-box;
+  width: 100%;
+  border: solid grey 1px;
+  padding: 5px;
+}
+
+body {
+  text-align: center;
+  margin: 100px 500px 100px 500px;
+  background-color: #E8F8C1;
+}
+
+.caption {
+  text-align: left;
+}
+
+.user-details {
+  text-align: left
+}
+
+.h1{
+	text-align: center;
+}
+
+.accuracy{
+	background-color: #D1FFC6;
+}
+
+.latency{
+	background-color: #E2D0BE;
+}
